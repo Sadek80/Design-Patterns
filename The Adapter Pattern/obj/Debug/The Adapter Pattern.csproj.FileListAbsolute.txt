@@ -1,0 +1,7 @@
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Adapter Pattern\obj\Debug\The Adapter Pattern.csprojAssemblyReference.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Adapter Pattern\obj\Debug\The Adapter Pattern.csproj.CoreCompileInputs.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Adapter Pattern\bin\Debug\The Adapter Pattern.exe.config
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Adapter Pattern\bin\Debug\The Adapter Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Adapter Pattern\bin\Debug\The Adapter Pattern.pdb
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Adapter Pattern\obj\Debug\The Adapter Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Adapter Pattern\obj\Debug\The Adapter Pattern.pdb

@@ -1,0 +1,7 @@
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Strategy Pattern\bin\Debug\The Strategy Pattern.exe.config
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Strategy Pattern\bin\Debug\The Strategy Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Strategy Pattern\bin\Debug\The Strategy Pattern.pdb
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Strategy Pattern\obj\Debug\The Strategy Pattern.csprojAssemblyReference.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Strategy Pattern\obj\Debug\The Strategy Pattern.csproj.CoreCompileInputs.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Strategy Pattern\obj\Debug\The Strategy Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Strategy Pattern\obj\Debug\The Strategy Pattern.pdb

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="The_Observer_Pattern.WeatherStation">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAKAAAIAAAAgAAAAAAAAAAAAAAACAACgAAAAQ=</HashCode>
+      <FileName>WeatherStation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="The_Observer_Pattern.Logger">
+    <Position X="6.75" Y="4" Width="1.5" />
+    <AssociationLine Name="WeatherStation" Type="The_Observer_Pattern.ISubject" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.531" Y="4" />
+        <Point X="7.531" Y="2.353" />
+        <Point X="3.158" Y="2.353" />
+        <Point X="3.158" Y="1.562" />
+        <Point X="2.25" Y="1.562" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAACAAAAIAAIAACAAAAAAAEAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="WeatherStation" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="The_Observer_Pattern.AlterSystem">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <AssociationLine Name="WeatherStation" Type="The_Observer_Pattern.ISubject" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.25" Y="4" />
+        <Point X="9.25" Y="2.738" />
+        <Point X="7.615" Y="2.738" Type="JumpStart" />
+        <Point X="7.448" Y="2.738" Type="JumpEnd" />
+        <Point X="5.052" Y="2.738" Type="JumpStart" />
+        <Point X="4.885" Y="2.738" Type="JumpEnd" />
+        <Point X="2.25" Y="2.738" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAQAAAAAAAAAAAIAAIAACAAAAAAAEAAA=</HashCode>
+      <FileName>AlterSystem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="WeatherStation" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="The_Observer_Pattern.UserInterface">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <AssociationLine Name="WeatherStation" Type="The_Observer_Pattern.ISubject" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.969" Y="4" />
+        <Point X="4.969" Y="2.438" />
+        <Point X="2.25" Y="2.438" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAIEAIAACAAAAAAAEAAA=</HashCode>
+      <FileName>UserInterface.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="WeatherStation" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="The_Observer_Pattern.ISubject">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAIAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>ISubject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="The_Observer_Pattern.IObserver">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>IObservable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

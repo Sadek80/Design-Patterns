@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="The_Adapter_Pattern.MulardDuck">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUA=</HashCode>
+      <FileName>MulardDuck.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="The_Adapter_Pattern.DuckSimulator">
+    <Position X="1.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABACAAAA=</HashCode>
+      <FileName>DuckSimulator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="duck" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="The_Adapter_Pattern.Adapter">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAUA=</HashCode>
+      <FileName>Adapter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="drone" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="The_Adapter_Pattern.SuperDrone">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SuperDrone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="The_Adapter_Pattern.Duck">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUA=</HashCode>
+      <FileName>Duck.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="The_Adapter_Pattern.Drone">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drone.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

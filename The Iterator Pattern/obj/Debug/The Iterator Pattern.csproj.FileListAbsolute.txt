@@ -1,0 +1,7 @@
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Iterator Pattern\bin\Debug\The Iterator Pattern.exe.config
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Iterator Pattern\bin\Debug\The Iterator Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Iterator Pattern\bin\Debug\The Iterator Pattern.pdb
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Iterator Pattern\obj\Debug\The Iterator Pattern.csprojAssemblyReference.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Iterator Pattern\obj\Debug\The Iterator Pattern.csproj.CoreCompileInputs.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Iterator Pattern\obj\Debug\The Iterator Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Iterator Pattern\obj\Debug\The Iterator Pattern.pdb

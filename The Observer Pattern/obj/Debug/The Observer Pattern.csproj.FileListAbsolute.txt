@@ -1,0 +1,7 @@
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Observer Pattern\bin\Debug\The Observer Pattern.exe.config
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Observer Pattern\bin\Debug\The Observer Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Observer Pattern\bin\Debug\The Observer Pattern.pdb
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Observer Pattern\obj\Debug\The Observer Pattern.csprojAssemblyReference.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Observer Pattern\obj\Debug\The Observer Pattern.csproj.CoreCompileInputs.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Observer Pattern\obj\Debug\The Observer Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Observer Pattern\obj\Debug\The Observer Pattern.pdb

@@ -1,0 +1,7 @@
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Simple Factory Pattern\obj\Debug\The Simple Factory Pattern.csprojAssemblyReference.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Simple Factory Pattern\obj\Debug\The Simple Factory Pattern.csproj.CoreCompileInputs.cache
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Simple Factory Pattern\bin\Debug\The Simple Factory Pattern.exe.config
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Simple Factory Pattern\bin\Debug\The Simple Factory Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Simple Factory Pattern\bin\Debug\The Simple Factory Pattern.pdb
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Simple Factory Pattern\obj\Debug\The Simple Factory Pattern.exe
+D:\Study\LinkedIn Learning\6. Programming Foundations Design Patterns\The Simple Factory Pattern\obj\Debug\The Simple Factory Pattern.pdb
